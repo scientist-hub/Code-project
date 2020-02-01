@@ -167,7 +167,6 @@ h1 {
 
 <!-- END MAIN -->
 </div>
-
 <script>
 filterSelection("all")
 function filterSelection(c) {
